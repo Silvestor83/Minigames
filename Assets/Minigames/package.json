@@ -1,0 +1,9 @@
+{
+  "name": "com.playgendary.ktb.minigames",
+  "version": "1.0.0",
+  "displayName": "KTB minigames",
+  "unity": "2021.3",
+ "keywords": [
+    "Minigames"
+  ]
+}
